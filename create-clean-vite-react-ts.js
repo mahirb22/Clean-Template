@@ -13,7 +13,7 @@ execSync(`create-vite ${projectName} --template ${template}`, {
   stdio: "inherit",
 });
 
-// Set the project directory path
+// Setting the project directory path
 const projectDir = path.resolve(process.cwd(), projectName);
 
 // List the files and folders to remove
@@ -40,7 +40,7 @@ const newAppContent = `
 function App() {
   return (
     <div>
-      Hello
+    Clean as f
     </div>
   );
 }
