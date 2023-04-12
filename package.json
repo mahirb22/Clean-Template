@@ -1,0 +1,19 @@
+{
+  "name": "clean",
+  "version": "1.0.0",
+  "description": "A cleaned up Vite React TypeScript project template",
+  "main": "create-clean-vite-react-ts.js",
+  "scripts": {
+    "dev": "node create-clean-vite-react-ts.js"
+  },
+  "keywords": [
+    "vite",
+    "react",
+    "typescript",
+    "template"
+  ],
+  "author": "Mahir Bhatt",
+  "dependencies": {
+    "fs-extra": "^10.1.0"
+  }
+}
